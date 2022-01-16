@@ -1,11 +1,27 @@
-# Mini Wprowadzenie do Modelowania Predykcyjnego
+# Wprowadzenie do Modelowania Predykcyjnego
 
+Ta książka jest splata teorię, przykłady i procesy istotne dla tworzenia modeli zgodnie z regułami Odpowiedzialnego Uczenia Maszynowego (ang. Responsible Machine Learning). Znajdziesz tutaj intuicje i przykłady dla Interpretable Machine Learning (IML) i eXplainable Artificial Intelligence (XAI). Opisy uzupełnione są o fragmenty kodu z przykładami dla R z wykorzystaniem pakietów randomForest, mlr3 i DALEX. Wreszcie, proces tworzenia modeli jest pokazany poprzez komiks opisujący przygody dwóch postaci, Bety i Bita. Interakcja tych dwóch postaci pokazuje decyzje, przed którymi często stają analitycy, czy wypróbować inny model, inną technikę eksploracji lub poszukać innych danych -- pytania jak porównywać modele lub je weryfikować.
 
-### HTML: 
+Wszystkie przykłady są w pełni odwtarzalne, tak że można te wszystkie przygody odtworzyć na lokalnym komputerze.
 
-https://betaandbit.github.io/MiniML/
+Tworzenie modeli jest odpowiedzialnym i wymagającym zadaniem, ale także ekscytującą przygodą. Czasami podręczniki skupiają się tylko na stronie technicznej, tracąc całą zabawę. Tutaj będziemy mieć jedno i drugie.
 
-### Comments:
+## Materiały
+
+* Darmowa wersja online: https://betaandbit.github.io/MiniML/
+* Kup plik pdf na LeanPub: https://leanpub.com/RML
+* Odtwarzalny skrypty z kodem dla R: [html](https://htmlpreview.github.io/?https://github.com/BetaAndBit/MiniML/blob/main/data/MiniML.html)
+* Odtwarzalny skrypty z kodem dla R: [Rmd](data/MiniML.Rmd)
+* Dane: [covid_spring.csv](data/covid_spring.csv)
+* Dane: [covid_summer.csv](data/covid_summer.csv)
+
+Należy pamiętać, że są to sztuczne dane wygenerowane w celu naśladowania relacji występujących w rzeczywistych danych.
+
+### Intro 
+
+![data/intro.png](data/intro.png)
+
+### Komentarze:
 
 #### Dianne Cook
 
@@ -80,7 +96,3 @@ science - a vast and fascinating field which can be compared to a journey of a t
 know that such journeys begin with a single step... or a hitchhiker's guide!
 ```
 
-
-### Intro:
-
-![https://github.com/BetaAndBit/Predictive-Models/blob/main/intro.png](https://github.com/BetaAndBit/Predictive-Models/blob/main/intro.png)
