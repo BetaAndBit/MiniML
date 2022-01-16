@@ -6,6 +6,7 @@ Wszystkie przykłady są w pełni odwtarzalne, tak że można te wszystkie przyg
 
 Tworzenie modeli jest odpowiedzialnym i wymagającym zadaniem, ale także ekscytującą przygodą. Czasami podręczniki skupiają się tylko na stronie technicznej, tracąc całą zabawę. Tutaj będziemy mieć jedno i drugie.
 
+
 ## Materiały
 
 * Darmowa wersja online: https://betaandbit.github.io/MiniML/
@@ -14,8 +15,9 @@ Tworzenie modeli jest odpowiedzialnym i wymagającym zadaniem, ale także ekscyt
 * Odtwarzalny skrypty z kodem dla R: [Rmd](data/MiniML.Rmd)
 * Dane: [covid_spring.csv](data/covid_spring.csv)
 * Dane: [covid_summer.csv](data/covid_summer.csv)
+* Wersja angielska komiksu i danych: [https://github.com/BetaAndBit/RML](https://github.com/BetaAndBit/RML)
 
-Należy pamiętać, że są to sztuczne dane wygenerowane w celu naśladowania relacji występujących w rzeczywistych danych.
+Należy pamiętać, że są to dane sztuczne wygenerowane w celu naśladowania relacji występujących w rzeczywistych danych.
 
 ### Intro 
 
